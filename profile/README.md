@@ -1,7 +1,7 @@
-# k7Foundation
+# Kittee Foundation
 
 EN:
-There all projects of k7Foundation
+There all projects of Kittee Foundation
 
 RU:
-Тут все проекты k7Foundation
+Тут все проекты Kittee Foundation
